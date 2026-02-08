@@ -3,36 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\data\\trips.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\trips.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\header.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\partials\\header.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\travlr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\models\\travlr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\footer.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\partials\\footer.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\routes\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\header.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\partials\\header.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\layouts\\layout.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\layouts\\layout.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\controllers\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\controllers\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\controllers\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\controllers\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\models\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\controllers\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\controllers\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\seed.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\models\\seed.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\routes\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\routes\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +66,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "layout.hbs",
+              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\layouts\\layout.hbs",
+              "RelativeDocumentMoniker": "app_server\\views\\layouts\\layout.hbs",
+              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\layouts\\layout.hbs",
+              "RelativeToolTip": "app_server\\views\\layouts\\layout.hbs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-07T09:21:36.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "users.js",
+              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\users.js",
+              "RelativeDocumentMoniker": "app_server\\routes\\users.js",
+              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\users.js",
+              "RelativeToolTip": "app_server\\routes\\users.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-07T08:57:16.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "db.js",
+              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\db.js",
+              "RelativeDocumentMoniker": "app_server\\models\\db.js",
+              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\db.js",
+              "RelativeToolTip": "app_server\\models\\db.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-07T08:56:35.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "seed.js",
+              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\seed.js",
+              "RelativeDocumentMoniker": "app_server\\models\\seed.js",
+              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\seed.js",
+              "RelativeToolTip": "app_server\\models\\seed.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-07T08:28:16.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "trips.json",
+              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\data\\trips.json",
+              "RelativeDocumentMoniker": "data\\trips.json",
+              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\data\\trips.json",
+              "RelativeToolTip": "data\\trips.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-07T08:16:16.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "travlr.js",
+              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\travlr.js",
+              "RelativeDocumentMoniker": "app_server\\models\\travlr.js",
+              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\travlr.js",
+              "RelativeToolTip": "app_server\\models\\travlr.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-07T08:09:57.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "footer.hbs",
               "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\footer.hbs",
               "RelativeDocumentMoniker": "app_server\\views\\partials\\footer.hbs",
@@ -59,33 +157,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "header.hbs",
               "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\header.hbs",
               "RelativeDocumentMoniker": "app_server\\views\\partials\\header.hbs",
               "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\header.hbs",
               "RelativeToolTip": "app_server\\views\\partials\\header.hbs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-01-16T08:41:32.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "travel.hbs",
               "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\travel.hbs",
               "RelativeDocumentMoniker": "app_server\\views\\travel.hbs",
               "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\travel.hbs",
               "RelativeToolTip": "app_server\\views\\travel.hbs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAD0AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-16T08:40:11.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T08:40:11.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "app.js",
               "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app.js",
               "RelativeDocumentMoniker": "app.js",
@@ -93,12 +190,11 @@
               "RelativeToolTip": "app.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-15T08:22:31.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T08:22:31.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "travel.js",
               "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\travel.js",
               "RelativeDocumentMoniker": "app_server\\routes\\travel.js",
@@ -106,12 +202,11 @@
               "RelativeToolTip": "app_server\\routes\\travel.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-15T08:20:01.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T08:20:01.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "travel.js",
               "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\controllers\\travel.js",
               "RelativeDocumentMoniker": "app_server\\controllers\\travel.js",
@@ -119,12 +214,11 @@
               "RelativeToolTip": "app_server\\controllers\\travel.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-15T08:17:50.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T08:17:50.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "index.js",
               "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\index.js",
               "RelativeDocumentMoniker": "app_server\\routes\\index.js",
@@ -132,12 +226,11 @@
               "RelativeToolTip": "app_server\\routes\\index.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-15T08:10:06.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T08:10:06.685Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "main.js",
               "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\controllers\\main.js",
               "RelativeDocumentMoniker": "app_server\\controllers\\main.js",
@@ -145,8 +238,7 @@
               "RelativeToolTip": "app_server\\controllers\\main.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-15T08:07:53.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T08:07:53.922Z"
             }
           ]
         }
