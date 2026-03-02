@@ -1,62 +1,266 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\",
+  "WorkspaceRootPath": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\header.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\partials\\header.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\footer.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\partials\\footer.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\layouts\\layout.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\layouts\\layout.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-listing\\trip-listing.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\controllers\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\controllers\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\controllers\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\controllers\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-listing\\trip-listing.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\models\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\seed.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\models\\seed.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\travlr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\models\\travlr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_api\\models\\trips.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\models\\trips.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-card\\trip-card.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-card\\trip-card.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-card\\trip-card.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-card\\trip-card.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\services\\trip-data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\services\\trip-data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_api\\controllers\\trips.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\controllers\\trips.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_api\\models\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\models\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_api\\models\\seed.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\models\\seed.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_api\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\add-trip\\add-trip.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\add-trip\\add-trip.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\controllers\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\controllers\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\routes\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\data\\trips.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\app.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\add-trip\\add-trip.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\add-trip\\add-trip.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\add-trip\\add-trip.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\add-trip\\add-trip.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\models\\trip.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\models\\trip.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-listing\\trip-listing.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-listing\\trip-listing.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\add-trip\\add-trip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\add-trip\\add-trip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\services\\trip-data.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\services\\trip-data.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\assets\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\assets\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\rooms.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rooms.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\travel.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:travel.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\data\\trips.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\data\\trips.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\data\\trips.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\trips.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\assets\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\.angular\\cache\\21.1.4\\travlr-admin\\.tsbuildinfo||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\.angular\\cache\\21.1.4\\travlr-admin\\.tsbuildinfo||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\meals.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\meals.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\meals.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:meals.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\rooms.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\rooms.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\news.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\news.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\news.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:news.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\controllers\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\controllers\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\header.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\partials\\header.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\routes\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\travlr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\footer.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\partials\\footer.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\layouts\\layout.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\layouts\\layout.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\seed.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,145 +270,277 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "layout.hbs",
-              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\layouts\\layout.hbs",
-              "RelativeDocumentMoniker": "app_server\\views\\layouts\\layout.hbs",
-              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\layouts\\layout.hbs",
-              "RelativeToolTip": "app_server\\views\\layouts\\layout.hbs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-07T09:21:36.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "users.js",
-              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\users.js",
-              "RelativeDocumentMoniker": "app_server\\routes\\users.js",
-              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\users.js",
-              "RelativeToolTip": "app_server\\routes\\users.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-02-07T08:57:16.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "db.js",
-              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\db.js",
-              "RelativeDocumentMoniker": "app_server\\models\\db.js",
-              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\db.js",
-              "RelativeToolTip": "app_server\\models\\db.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-02-07T08:56:35.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "seed.js",
-              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\seed.js",
-              "RelativeDocumentMoniker": "app_server\\models\\seed.js",
-              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\seed.js",
-              "RelativeToolTip": "app_server\\models\\seed.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-02-07T08:28:16.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "trips.json",
-              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\data\\trips.json",
-              "RelativeDocumentMoniker": "data\\trips.json",
-              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\data\\trips.json",
-              "RelativeToolTip": "data\\trips.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-07T08:16:16.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "travlr.js",
-              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\travlr.js",
-              "RelativeDocumentMoniker": "app_server\\models\\travlr.js",
-              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\travlr.js",
-              "RelativeToolTip": "app_server\\models\\travlr.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-02-07T08:09:57.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "footer.hbs",
-              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\footer.hbs",
-              "RelativeDocumentMoniker": "app_server\\views\\partials\\footer.hbs",
-              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\footer.hbs",
-              "RelativeToolTip": "app_server\\views\\partials\\footer.hbs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-16T08:55:48.162Z",
+              "DocumentIndex": 24,
+              "Title": "trip.ts",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\models\\trip.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\models\\trip.ts",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\models\\trip.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\models\\trip.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-25T02:20:53.71Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "header.hbs",
-              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\header.hbs",
-              "RelativeDocumentMoniker": "app_server\\views\\partials\\header.hbs",
-              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\header.hbs",
-              "RelativeToolTip": "app_server\\views\\partials\\header.hbs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-16T08:41:32.965Z",
+              "Title": "app.ts",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\app.ts",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\app.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-23T00:57:48.547Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "travel.hbs",
-              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\travel.hbs",
-              "RelativeDocumentMoniker": "app_server\\views\\travel.hbs",
-              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\travel.hbs",
-              "RelativeToolTip": "app_server\\views\\travel.hbs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-16T08:40:11.393Z",
+              "DocumentIndex": 11,
+              "Title": "trip-data.ts",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\services\\trip-data.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\services\\trip-data.ts",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\services\\trip-data.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\services\\trip-data.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-25T02:23:35.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
+              "Title": "index.js",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_api\\routes\\index.js",
+              "RelativeDocumentMoniker": "app_api\\routes\\index.js",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_api\\routes\\index.js",
+              "RelativeToolTip": "app_api\\routes\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-10T04:27:52.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "trips.js",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_api\\controllers\\trips.js",
+              "RelativeDocumentMoniker": "app_api\\controllers\\trips.js",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_api\\controllers\\trips.js",
+              "RelativeToolTip": "app_api\\controllers\\trips.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-10T04:13:35.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "app.js",
-              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app.js",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app.js",
               "RelativeDocumentMoniker": "app.js",
-              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app.js",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app.js",
               "RelativeToolTip": "app.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-01-15T08:22:31.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "add-trip.ts",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\add-trip\\add-trip.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\add-trip\\add-trip.ts",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\add-trip\\add-trip.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\add-trip\\add-trip.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-27T08:40:57.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "db.js",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_api\\models\\db.js",
+              "RelativeDocumentMoniker": "app_api\\models\\db.js",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_api\\models\\db.js",
+              "RelativeToolTip": "app_api\\models\\db.js",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-10T04:51:13.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "trips.js",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_api\\models\\trips.js",
+              "RelativeDocumentMoniker": "app_api\\models\\trips.js",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_api\\models\\trips.js",
+              "RelativeToolTip": "app_api\\models\\trips.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-10T04:51:23.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "seed.js",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_api\\models\\seed.js",
+              "RelativeDocumentMoniker": "app_api\\models\\seed.js",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_api\\models\\seed.js",
+              "RelativeToolTip": "app_api\\models\\seed.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-10T04:51:17.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "trip-listing.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.html",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-listing\\trip-listing.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.html",
+              "RelativeToolTip": "app_admin\\src\\app\\trip-listing\\trip-listing.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-24T23:35:02.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "trip-listing.ts",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-listing\\trip-listing.ts",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\trip-listing\\trip-listing.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-25T02:23:54.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "trip-card.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.html",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-card\\trip-card.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.html",
+              "RelativeToolTip": "app_admin\\src\\app\\trip-card\\trip-card.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-25T02:24:23.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "trip-card.css",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.css",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-card\\trip-card.css",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.css",
+              "RelativeToolTip": "app_admin\\src\\app\\trip-card\\trip-card.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-25T04:46:05.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "trip-card.spec.ts",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.spec.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-card\\trip-card.spec.ts",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.spec.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\trip-card\\trip-card.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-25T04:46:06.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "trip-card.ts",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-card\\trip-card.ts",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-card\\trip-card.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\trip-card\\trip-card.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-25T02:24:19.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\app.config.ts",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.config.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\app.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-23T10:51:09.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.html",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\app.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.html",
+              "RelativeToolTip": "app_admin\\src\\app\\app.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-24T23:33:37.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.js",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\index.js",
+              "RelativeDocumentMoniker": "app_server\\routes\\index.js",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\index.js",
+              "RelativeToolTip": "app_server\\routes\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-15T08:10:06.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "travel.js",
-              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\travel.js",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\controllers\\travel.js",
+              "RelativeDocumentMoniker": "app_server\\controllers\\travel.js",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\controllers\\travel.js",
+              "RelativeToolTip": "app_server\\controllers\\travel.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-15T08:17:50.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "travel.js",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\travel.js",
               "RelativeDocumentMoniker": "app_server\\routes\\travel.js",
-              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\travel.js",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\travel.js",
               "RelativeToolTip": "app_server\\routes\\travel.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -213,41 +549,571 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "travel.js",
-              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\controllers\\travel.js",
-              "RelativeDocumentMoniker": "app_server\\controllers\\travel.js",
-              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\controllers\\travel.js",
-              "RelativeToolTip": "app_server\\controllers\\travel.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-15T08:17:50.457Z",
+              "DocumentIndex": 21,
+              "Title": "app.spec.ts",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.spec.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\app.spec.ts",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.spec.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\app.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-23T00:57:58.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "index.js",
-              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\index.js",
-              "RelativeDocumentMoniker": "app_server\\routes\\index.js",
-              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\index.js",
-              "RelativeToolTip": "app_server\\routes\\index.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-15T08:10:06.685Z",
+              "DocumentIndex": 25,
+              "Title": "trip-listing.css",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.css",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-listing\\trip-listing.css",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.css",
+              "RelativeToolTip": "app_admin\\src\\app\\trip-listing\\trip-listing.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-25T02:23:51.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\app.routes.ts",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-25T02:23:59.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "angular.json",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\angular.json",
+              "RelativeDocumentMoniker": "app_admin\\angular.json",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\angular.json",
+              "RelativeToolTip": "app_admin\\angular.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-23T00:39:23.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "main.ts",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\main.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\main.ts",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\main.ts",
+              "RelativeToolTip": "app_admin\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-24T23:53:01.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "trip-listing.spec.ts",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.spec.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-listing\\trip-listing.spec.ts",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.spec.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\trip-listing\\trip-listing.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-25T02:23:53.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "add-trip.spec.ts",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\add-trip\\add-trip.spec.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\add-trip\\add-trip.spec.ts",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\add-trip\\add-trip.spec.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\add-trip\\add-trip.spec.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-27T08:40:47.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "add-trip.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\add-trip\\add-trip.html",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\add-trip\\add-trip.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\add-trip\\add-trip.html",
+              "RelativeToolTip": "app_admin\\src\\app\\add-trip\\add-trip.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-27T08:40:55.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "add-trip.css",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\add-trip\\add-trip.css",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\add-trip\\add-trip.css",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\add-trip\\add-trip.css",
+              "RelativeToolTip": "app_admin\\src\\app\\add-trip\\add-trip.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-27T08:40:46.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "travel.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\travel.html",
+              "RelativeDocumentMoniker": "travel.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\travel.html",
+              "RelativeToolTip": "travel.html",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T04:11:25.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "trip-data.spec.ts",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\services\\trip-data.spec.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\services\\trip-data.spec.ts",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\services\\trip-data.spec.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\services\\trip-data.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-25T02:23:37.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-25T05:57:03.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "proxy.conf.json",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\proxy.conf.json",
+              "RelativeDocumentMoniker": "app_admin\\proxy.conf.json",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\proxy.conf.json",
+              "RelativeToolTip": "app_admin\\proxy.conf.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-25T07:05:22.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "styles.css",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\assets\\css\\styles.css",
+              "RelativeDocumentMoniker": "app_admin\\src\\assets\\css\\styles.css",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\assets\\css\\styles.css",
+              "RelativeToolTip": "app_admin\\src\\assets\\css\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-25T09:09:54.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "trips.ts",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\data\\trips.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\data\\trips.ts",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\data\\trips.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\data\\trips.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-25T02:24:07.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "app.css",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.css",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\app.css",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\app.css",
+              "RelativeToolTip": "app_admin\\src\\app\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-23T00:47:52.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "rooms.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\rooms.html",
+              "RelativeDocumentMoniker": "rooms.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\rooms.html",
+              "RelativeToolTip": "rooms.html",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAFQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T07:58:14.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "index.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\index.html",
+              "RelativeDocumentMoniker": "app_admin\\src\\index.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\index.html",
+              "RelativeToolTip": "app_admin\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-23T00:47:55.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "contact.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\contact.html",
+              "RelativeDocumentMoniker": "contact.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\contact.html",
+              "RelativeToolTip": "contact.html",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T07:57:35.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\assets\\css\\styles.css",
+              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\src\\app\\assets\\css\\styles.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-23T00:47:45.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": ".tsbuildinfo",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\.angular\\cache\\21.1.4\\travlr-admin\\.tsbuildinfo",
+              "RelativeDocumentMoniker": "app_admin\\.angular\\cache\\21.1.4\\travlr-admin\\.tsbuildinfo",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\.angular\\cache\\21.1.4\\travlr-admin\\.tsbuildinfo",
+              "RelativeToolTip": "app_admin\\.angular\\cache\\21.1.4\\travlr-admin\\.tsbuildinfo",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADH1wAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-23T10:52:17.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "trips.json",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\data\\trips.json",
+              "RelativeDocumentMoniker": "data\\trips.json",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\data\\trips.json",
+              "RelativeToolTip": "data\\trips.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-07T08:16:16.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "style.css",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\css\\style.css",
+              "RelativeDocumentMoniker": "public\\css\\style.css",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\css\\style.css",
+              "RelativeToolTip": "public\\css\\style.css",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-23T00:46:51.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "package.json",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\package.json",
+              "RelativeDocumentMoniker": "app_admin\\package.json",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\package.json",
+              "RelativeToolTip": "app_admin\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-23T00:39:50.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\package-lock.json",
+              "RelativeDocumentMoniker": "app_admin\\package-lock.json",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\package-lock.json",
+              "RelativeToolTip": "app_admin\\package-lock.json",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-23T00:39:22.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\.editorconfig",
+              "RelativeDocumentMoniker": "app_admin\\.editorconfig",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_admin\\.editorconfig",
+              "RelativeToolTip": "app_admin\\.editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-23T00:39:21.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "contact.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\contact.html",
+              "RelativeDocumentMoniker": "public\\contact.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\contact.html",
+              "RelativeToolTip": "public\\contact.html",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T07:59:30.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "news.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\news.html",
+              "RelativeDocumentMoniker": "news.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\news.html",
+              "RelativeToolTip": "news.html",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwG4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T07:59:13.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "meals.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\meals.html",
+              "RelativeDocumentMoniker": "meals.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\meals.html",
+              "RelativeToolTip": "meals.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T07:58:58.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "news.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\news.html",
+              "RelativeDocumentMoniker": "public\\news.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\news.html",
+              "RelativeToolTip": "public\\news.html",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwG4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T07:58:31.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "about.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\about.html",
+              "RelativeDocumentMoniker": "about.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\about.html",
+              "RelativeToolTip": "about.html",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAEwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T04:28:28.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "index.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\index.html",
+              "RelativeDocumentMoniker": "public\\index.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\index.html",
+              "RelativeToolTip": "public\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T04:17:41.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "rooms.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\rooms.html",
+              "RelativeDocumentMoniker": "public\\rooms.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\rooms.html",
+              "RelativeToolTip": "public\\rooms.html",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwFQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T04:11:31.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "users.js",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\users.js",
+              "RelativeDocumentMoniker": "app_server\\routes\\users.js",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\routes\\users.js",
+              "RelativeToolTip": "app_server\\routes\\users.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-07T08:57:16.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "seed.js",
+              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\seed.js",
+              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\seed.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-07T08:28:16.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "travel.hbs",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\travel.hbs",
+              "RelativeDocumentMoniker": "app_server\\views\\travel.hbs",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\travel.hbs",
+              "RelativeToolTip": "app_server\\views\\travel.hbs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-16T08:40:11.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "meals.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\meals.html",
+              "RelativeDocumentMoniker": "public\\meals.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\meals.html",
+              "RelativeToolTip": "public\\meals.html",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T07:59:40.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "travlr.js",
+              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\travlr.js",
+              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\travlr.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-07T08:09:57.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "index.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T04:24:22.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "about.html",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\about.html",
+              "RelativeDocumentMoniker": "public\\about.html",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\public\\about.html",
+              "RelativeToolTip": "public\\about.html",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwFQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T04:29:55.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "footer.hbs",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\footer.hbs",
+              "RelativeDocumentMoniker": "app_server\\views\\partials\\footer.hbs",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\footer.hbs",
+              "RelativeToolTip": "app_server\\views\\partials\\footer.hbs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-16T08:55:48.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "header.hbs",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\header.hbs",
+              "RelativeDocumentMoniker": "app_server\\views\\partials\\header.hbs",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\partials\\header.hbs",
+              "RelativeToolTip": "app_server\\views\\partials\\header.hbs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-16T08:41:32.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
               "Title": "main.js",
-              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\controllers\\main.js",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\controllers\\main.js",
               "RelativeDocumentMoniker": "app_server\\controllers\\main.js",
-              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\controllers\\main.js",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\controllers\\main.js",
               "RelativeToolTip": "app_server\\controllers\\main.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-01-15T08:07:53.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "db.js",
+              "DocumentMoniker": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\db.js",
+              "ToolTip": "C:\\Users\\marsh\\source\\repos\\Hulkonsteroids\\CS-465\\travlr\\app_server\\models\\db.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-07T08:56:35.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "layout.hbs",
+              "DocumentMoniker": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\layouts\\layout.hbs",
+              "RelativeDocumentMoniker": "app_server\\views\\layouts\\layout.hbs",
+              "ToolTip": "A:\\GitHub\\Hulkonsteroids\\CS-465\\travlr\\app_server\\views\\layouts\\layout.hbs",
+              "RelativeToolTip": "app_server\\views\\layouts\\layout.hbs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-07T09:21:36.91Z",
               "EditorCaption": ""
             }
           ]

@@ -3,14 +3,26 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
+const cors = require('cors');
 
+
+//Bring in the database
+require('./app_api/models/db');
+
+//Define routers
 var indexRouter = require('./app_server/routes/index');
 var usersRouter = require('./app_server/routes/users');
 var travelRouter = require('./app_server/routes/travel');
+var apiRouter = require('./app_api/routes/index');
+
 var handlebars = require('hbs');
 
 
+
+
 var app = express();
+
+app.use(cors({ origin: 'http://localhost:4200' }));
 
 // view engine setup
 app.set('views', path.join(__dirname, 'app_server' , 'views'));
@@ -25,9 +37,32 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
+// Disable caching for API responses (prevents 304 stale bodies)
+app.set('etag', false);
+
+app.use('/api', (req, res, next) => {
+    res.set('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate');
+    res.set('Pragma', 'no-cache');
+    res.set('Expires', '0');
+    next();
+});
+
+
+//Enable CORS for API routes
+app.use('/api/', (req, res, next) => {
+    res.header('Access-Control-Allow-Origin', 'http://localhost:4200');
+    res.header('Access-Control-Allow-Methods', 'GET,POST,PUT,DELETE,OPTIONS');
+    res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+    res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
+    next();
+});
+
+
+//wire up routes to controller
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
-app.use('/travel', travelRouter);
+app.use('/', travelRouter);
+app.use('/api', apiRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
